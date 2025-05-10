@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: krita
+Build-Jdk: 24
+Implementation-Title: chatapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring
+Main-Class: ${start-class}
+
